@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="Base.Theme.Asclepius" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/asclepius_blue</item>
+        <item name="android:windowBackground">@color/asclepius_bg_light</item>
+    </style>
+</resources>
